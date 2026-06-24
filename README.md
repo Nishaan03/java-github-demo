@@ -1,2 +1,2 @@
-# java-github-demo
+# Organic
 Learning GitHub with a simple Java project
